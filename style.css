@@ -78,14 +78,14 @@ section {
 }
 
 .btn-primary {
-  background-color: #22c55e;
+  background-color: #00ba96;
   color: #fff;
 }
 
 .btn-primary:hover {
-  background-color: #16a34a;
+  background-color: #00a080;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.4);
+  box-shadow: 0 4px 12px rgba(0, 186, 150, 0.4);
 }
 
 .btn-large {
@@ -128,12 +128,12 @@ section {
 .logo-text {
   font-size: 24px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
 }
 
 .header-cta {
   padding: 10px 24px;
-  background-color: #22c55e;
+  background-color: #00ba96;
   color: #fff;
   font-weight: 500;
   border-radius: 6px;
@@ -141,7 +141,7 @@ section {
 }
 
 .header-cta:hover {
-  background-color: #16a34a;
+  background-color: #00a080;
 }
 
 /* ========================================
@@ -149,7 +149,7 @@ section {
    ======================================== */
 .hero {
   padding: 150px 0 100px;
-  background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 50%, #f0fdfa 100%);
+  background: linear-gradient(135deg, #e6f7f3 0%, #e0f5f0 50%, #f0fdfa 100%);
 }
 
 .hero-content {
@@ -159,7 +159,7 @@ section {
 .hero-label {
   display: inline-block;
   padding: 8px 20px;
-  background-color: #22c55e;
+  background-color: #00ba96;
   color: #fff;
   font-size: 14px;
   font-weight: 700;
@@ -177,7 +177,7 @@ section {
 
 .hero-subtitle {
   font-size: 20px;
-  color: #22c55e;
+  color: #00ba96;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -202,7 +202,7 @@ section {
 }
 
 .hero-point strong {
-  color: #22c55e;
+  color: #00ba96;
   font-size: 20px;
 }
 
@@ -303,8 +303,8 @@ section {
 }
 
 .solution-step.highlight {
-  background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
-  border: 2px solid #22c55e;
+  background: linear-gradient(135deg, #e6f7f3 0%, #e0f5f0 100%);
+  border: 2px solid #00ba96;
 }
 
 .solution-arrow {
@@ -312,7 +312,7 @@ section {
   align-items: center;
   font-size: 28px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
 }
 
 .step-icon {
@@ -371,7 +371,7 @@ section {
   display: inline-block;
   font-size: 14px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
   margin-bottom: 10px;
 }
 
@@ -391,9 +391,9 @@ section {
 .feature-point {
   font-size: 14px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
   padding: 12px 16px;
-  background: #f0fdf4;
+  background: #e6f7f3;
   border-radius: 6px;
 }
 
@@ -429,8 +429,8 @@ section {
 }
 
 .comparison-table th:last-child {
-  background: #f0fdf4;
-  color: #22c55e;
+  background: #e6f7f3;
+  color: #00ba96;
 }
 
 .comparison-label {
@@ -454,8 +454,8 @@ section {
 }
 
 .comparison-advantage {
-  background: #f0fdf4;
-  color: #166534;
+  background: #e6f7f3;
+  color: #008570;
   font-weight: 500;
 }
 
@@ -519,7 +519,7 @@ section {
 .metric-value {
   font-size: 24px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
 }
 
 .metric-total {
@@ -536,7 +536,7 @@ section {
 
 .bar-fill {
   height: 100%;
-  background: linear-gradient(90deg, #22c55e, #4ade80);
+  background: linear-gradient(90deg, #00ba96, #5ce0c0);
   border-radius: 4px;
 }
 
@@ -569,8 +569,8 @@ section {
 }
 
 .section-tag.impact-tag {
-  background: #f0fdf4;
-  color: #166534;
+  background: #e6f7f3;
+  color: #008570;
 }
 
 .report-section-text {
@@ -598,7 +598,7 @@ section {
 }
 
 .report-section.impact {
-  background: #f0fdf4;
+  background: #e6f7f3;
 }
 
 .impact-metrics {
@@ -620,7 +620,7 @@ section {
 
 .impact-value {
   font-weight: 700;
-  color: #166534;
+  color: #008570;
 }
 
 /* ========================================
@@ -654,7 +654,7 @@ section {
 .flow-arrow::after {
   content: "→";
   font-size: 24px;
-  color: #22c55e;
+  color: #00ba96;
   font-weight: 700;
 }
 
@@ -663,7 +663,7 @@ section {
   width: 40px;
   height: 40px;
   line-height: 40px;
-  background: #22c55e;
+  background: #00ba96;
   color: #fff;
   font-size: 16px;
   font-weight: 700;
@@ -680,7 +680,7 @@ section {
 
 .flow-duration {
   font-size: 14px;
-  color: #22c55e;
+  color: #00ba96;
   font-weight: 700;
   margin-bottom: 12px;
 }
@@ -709,7 +709,7 @@ section {
 }
 
 .flow-note strong {
-  color: #22c55e;
+  color: #00ba96;
 }
 
 /* ========================================
@@ -758,10 +758,10 @@ section {
 .answer-title {
   font-size: 18px;
   font-weight: 700;
-  color: #166534;
+  color: #008570;
   margin-bottom: 20px;
   padding-left: 15px;
-  border-left: 4px solid #22c55e;
+  border-left: 4px solid #00ba96;
 }
 
 .answer-list {
@@ -785,12 +785,12 @@ section {
    利用条件
    ======================================== */
 .eligibility {
-  background: #f0fdf4;
+  background: #e6f7f3;
 }
 
 .eligibility-box {
   background: #fff;
-  border: 2px solid #22c55e;
+  border: 2px solid #00ba96;
   border-radius: 12px;
   padding: 30px;
   text-align: center;
@@ -800,7 +800,7 @@ section {
 .eligibility-title {
   font-size: 16px;
   font-weight: 700;
-  color: #22c55e;
+  color: #00ba96;
   margin-bottom: 15px;
 }
 
@@ -876,7 +876,7 @@ section {
 
 .plan-included {
   font-size: 13px;
-  color: #22c55e;
+  color: #00ba96;
   font-weight: 500;
 }
 
@@ -884,7 +884,7 @@ section {
   background: #fff;
   border-radius: 12px;
   padding: 25px 30px;
-  border-left: 4px solid #22c55e;
+  border-left: 4px solid #00ba96;
 }
 
 .beta-note-title {
@@ -924,8 +924,8 @@ section {
 }
 
 .pricing-card.recommended {
-  border: 2px solid #22c55e;
-  box-shadow: 0 4px 20px rgba(34, 197, 94, 0.15);
+  border: 2px solid #00ba96;
+  box-shadow: 0 4px 20px rgba(0, 186, 150, 0.15);
 }
 
 .pricing-badge {
@@ -934,7 +934,7 @@ section {
   left: 50%;
   transform: translateX(-50%);
   padding: 6px 20px;
-  background: #22c55e;
+  background: #00ba96;
   color: #fff;
   font-size: 13px;
   font-weight: 700;
@@ -995,12 +995,12 @@ section {
 }
 
 .check {
-  color: #22c55e;
+  color: #00ba96;
   font-weight: 700;
 }
 
 .check.double {
-  color: #22c55e;
+  color: #00ba96;
 }
 
 .cross {
@@ -1023,7 +1023,7 @@ section {
    CTA
    ======================================== */
 .cta {
-  background: linear-gradient(135deg, #166534 0%, #15803d 50%, #16a34a 100%);
+  background: linear-gradient(135deg, #008570 0%, #009a80 50%, #00a080 100%);
   color: #fff;
   padding: 100px 0;
 }
@@ -1048,7 +1048,7 @@ section {
 
 .highlight-number {
   font-size: 56px;
-  color: #4ade80;
+  color: #5ce0c0;
 }
 
 .cta-description {
@@ -1073,7 +1073,7 @@ section {
 }
 
 .benefit-check {
-  color: #4ade80;
+  color: #5ce0c0;
   font-weight: 700;
 }
 
@@ -1107,7 +1107,7 @@ section {
   content: "✓";
   position: absolute;
   left: 0;
-  color: #4ade80;
+  color: #5ce0c0;
 }
 
 .cta-contact {
@@ -1132,7 +1132,7 @@ section {
 }
 
 .contact-email a {
-  color: #4ade80;
+  color: #5ce0c0;
   text-decoration: underline;
 }
 
@@ -1143,11 +1143,11 @@ section {
 
 .cta .btn-primary {
   background: #fff;
-  color: #166534;
+  color: #008570;
 }
 
 .cta .btn-primary:hover {
-  background: #f0fdf4;
+  background: #e6f7f3;
   box-shadow: 0 4px 20px rgba(255, 255, 255, 0.3);
 }
 
